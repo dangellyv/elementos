@@ -8,13 +8,12 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
-*.bbl
+.bbl
 *.blg
 *.bcf
 *.run.xml
 *.nav
 *.snm
 *.vrb
-
 # Archivos temporales de VS Code
 .vscode/settings.json
